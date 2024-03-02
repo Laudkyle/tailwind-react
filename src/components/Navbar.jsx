@@ -23,7 +23,7 @@ const Navbar = () => {
         <h1 className="w-full text-3xl font-bold text-[#00df9a] m-4">React.</h1>
         <ul className="uppercase p-4">
           <li className="p-3 border-b border-b-gray-800">Home</li>
-          <li className="p-3 border-b border-b-gray-800">Company</li>
+          <li className="p-4 border-b border-b-gray-800">Company</li>
           <li className="p-4 border-b border-b-gray-800">Resources</li>
           <li className="p-4 border-b border-b-gray-800">About</li>
           <li className="p-4">Contact</li>
