@@ -25,7 +25,7 @@ const Navbar = () => {
           <li className="p-3 border-b border-b-gray-800">Home</li>
           <li className="p-3 border-b border-b-gray-800">Company</li>
           <li className="p-3 border-b border-b-gray-800">Resources</li>
-          <li className="p-3 border-b border-b-gray-800">About</li>
+          <li className="p-4 border-b border-b-gray-800">About</li>
           <li className="p-4">Contact</li>
         </ul>
       </div>
