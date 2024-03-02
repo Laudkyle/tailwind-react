@@ -11,7 +11,7 @@ const Navbar = () => {
       <h1 className="w-full text-3xl font-bold text-[#00df9a]">React.</h1>
       <ul className={"hidden md:flex"}>
         <li className="p-4">Home</li>
-        <li className="p-">Company</li>
+        <li className="p-3">Company</li>
         <li className="p-3">Resources</li>
         <li className="p-3">About</li>
         <li className="p-3">Contact</li>
