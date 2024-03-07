@@ -12,7 +12,7 @@ const Navbar = () => {
       <ul className={"hidden md:flex"}>
         <li className="p-4">Home</li>
         <li className="p-4">Company</li>
-        <li className="p-">Resources</li>
+        <li className="p-4">Resources</li>
         <li className="p-">About</li>
         <li className="p-">Contact</li>
       </ul>
