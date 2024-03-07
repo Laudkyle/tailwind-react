@@ -13,8 +13,8 @@ const Navbar = () => {
         <li className="p-4">Home</li>
         <li className="p-4">Company</li>
         <li className="p-">Resources</li>
-        <li className="p-3">About</li>
-        <li className="p-3">Contact</li>
+        <li className="p-">About</li>
+        <li className="p-">Contact</li>
       </ul>
       <div onClick={handleNav} className="block md:hidden">
         {!nav ?<AiOutlineClose size={20}/> : <AiOutlineMenu size={20} />}
